@@ -39,4 +39,5 @@ This project presents a detailed sales analysis of Zara's products using Microso
 📧 chitrathirunagari@gmail.com  
 
 
+![Dashboard Preview](dashboard_preview.png)
 
